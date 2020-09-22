@@ -1,6 +1,6 @@
 package com.techproedpackage;
 
-import com.sun.xml.internal.bind.v2.WellKnownNamespace;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
